@@ -17,7 +17,7 @@ When you need to have one instance of a class in an application.
  
 C#
  
-.NET Framework 7.0
+.NET 7.0
 
 ### 🤝 Contributing
  
